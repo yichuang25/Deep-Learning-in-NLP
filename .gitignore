@@ -131,3 +131,5 @@ dmypy.json
 text8
 train_x_list.pkl
 .DS_Store
+.vector_cache
+.data
